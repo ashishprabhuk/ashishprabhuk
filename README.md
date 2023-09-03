@@ -6,7 +6,7 @@
 
 - 💬 **A Junior Frontend Developer with expertise in ReactJS and UI/UX design. As a fresher, I am well-versed in Frontend technologies such as HTML5, CSS3, and modern JavaScript with frameworks and Libraries. I always enjoy exploring new technologies and finding ways to use them for real-world solutions. I am an excellent team member, communicator, and problem solver, and highly adaptable to environments.**
 
-- 📫 Reach me **<br>● ashishprabhu2143@gmail.com <br>● https://www.linkedin.com/in/ashishprabhuk/ <br>● https://leetcode.com/ashishprabhuk/**
+- 📫 Reach me **<br>○ ashishprabhu2143@gmail.com <br>○ https://www.linkedin.com/in/ashishprabhuk/ <br>○ https://leetcode.com/ashishprabhuk/**
 
 - 📄 Resume / CV [https://docs.google.com/document/d/1sDkGlH6tNMVNhlmdezCzSQr4FD4TthGLh87xE1W7Mx0/edit?usp=sharing](https://docs.google.com/document/d/1sDkGlH6tNMVNhlmdezCzSQr4FD4TthGLh87xE1W7Mx0/edit?usp=sharing)
 
