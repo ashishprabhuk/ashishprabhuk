@@ -8,7 +8,7 @@
 
 - 📫 Reach me **<br>→ ashishprabhu2143@gmail.com <br>→ www.linkedin.com/in/ashishprabhuk/ <br>→ https://leetcode.com/ashishprabhuk/**
 
-- 📄 Resume / CV [https://docs.google.com/document/d/1sDkGlH6tNMVNhlmdezCzSQr4FD4TthGLh87xE1W7Mx0/edit?usp=sharing](https://docs.google.com/document/d/1sDkGlH6tNMVNhlmdezCzSQr4FD4TthGLh87xE1W7Mx0/edit?usp=sharing)
+- 📄 Resume / CV [https://bit.ly/3tQ4rVG](https://bit.ly/3tQ4rVG)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
